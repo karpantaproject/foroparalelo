@@ -1,3 +1,6 @@
 [1006/222220.628:ERROR:crash_report_database_win.cc(569)] CreateDirectory C:\Program Files (x86)\Gunbean\Reports\Dump: El sistema no puede encontrar la ruta especificada. (0x3)
 [1006/222220.635:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: Ha terminado la canalización. (0x6D)
 [1006/222220.636:ERROR:crash_report_database_win.cc(569)] CreateDirectory C:\Program Files (x86)\Gunbean\Reports\Dump: El sistema no puede encontrar la ruta especificada. (0x3)
+[1006/224649.624:ERROR:crash_report_database_win.cc(569)] CreateDirectory C:\Program Files (x86)\Gunbean\Reports\Dump: El sistema no puede encontrar la ruta especificada. (0x3)
+[1006/224649.628:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: Ha terminado la canalización. (0x6D)
+[1006/224649.631:ERROR:crash_report_database_win.cc(569)] CreateDirectory C:\Program Files (x86)\Gunbean\Reports\Dump: El sistema no puede encontrar la ruta especificada. (0x3)
